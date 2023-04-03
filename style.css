@@ -1,0 +1,54 @@
+.navbar {
+    display: flex;
+    justify-content: space-between
+}
+
+.container {
+    display: flex;
+}
+
+.logo {
+    padding-left: 50px;
+}
+
+.hlink {
+    padding-left: 100px;
+    padding-right: 50px;
+}
+
+.footer {
+    text-align: center;
+}
+
+.hero,
+.footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    color:#f9faf8;
+    text-decoration: none;
+}
+
+.logo {
+    font-size: 24px;
+}
+
+.container {
+    align-items: center;
+}
+
+.heroContent {
+    display: flex;
+}
+
+.heroImage {
+    
+}
+
