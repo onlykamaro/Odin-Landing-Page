@@ -35,15 +35,7 @@ a:visited {
     text-decoration: none;
 }
 
-.logo {
-    font-size: 24px;
-}
-
-.container {
-    align-items: center;
-}
-
-.heroContent {
+.hero.content {
     display: flex;
 }
 
